@@ -1,0 +1,133 @@
+body {
+	font-family: sans-serif;
+}
+
+button {
+	height: 50px; 
+	width: 500px;
+	border-radius: 15px;
+	font-size: 24px;
+	margin: 0 auto;
+	display: block;
+	outline: none;
+}
+
+p {
+	text-align: center;
+}
+
+.block {
+	font-size: 150px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#gameboard {
+	height: 500px;
+	width: 500px;
+	background: rgb(255,255,255);
+	border: 2px solid grey;
+	margin: 0 auto;
+	color: white;
+}
+
+#c1 {
+	border-right: 1px solid grey;
+	border-bottom: 1px solid grey;
+}
+
+#c2 {
+	border-bottom: 1px solid grey;
+}
+
+#c3 {
+	border-left: 1px solid grey;
+	border-bottom: 1px solid grey;
+}
+
+#c4 {
+	border-right: 1px solid grey;
+}
+
+#c5 {
+	border-bottom: 1px solid grey;
+}
+
+#c6 {
+	border-bottom: 1px solid grey;
+	border-left: 1px solid grey;
+}
+
+#c7 {
+	border-top: 1px solid grey;
+	border-right: 1px solid grey;
+}
+
+#c9 {
+	border-left: 1px solid grey;
+}
+
+
+#b1 {
+	height: 150px;
+	width: 150px;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+
+#b2 {
+	height: 150px;
+	width: 150px;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+
+#b3 {
+	height: 150px;
+	width: 150px;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+
+#b4 {
+	height: 150px;
+	width: 150px;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+
+#b5 {
+	height: 150px;
+	width: 150px;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+
+#b6 {
+	height: 150px;
+	width: 150px;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+
+#b7 {
+	height: 150px;
+	width: 150px;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+
+#b8 {
+	height: 150px;
+	width: 150px;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+
+#b9 {
+	height: 150px;
+	width: 150px;
+	border-radius: 10px;
+	margin: 0 auto;
+}
